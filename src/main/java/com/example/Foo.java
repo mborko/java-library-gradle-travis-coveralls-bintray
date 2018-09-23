@@ -11,6 +11,7 @@ public class Foo {
      * @return another object
      */
     public Object doFoo(Object o) {
+	int i = 1;
         return null;
     }
 }
